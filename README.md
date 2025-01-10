@@ -5,15 +5,20 @@ I'm currently a graduate student at Northeastern University, majoring in Informa
 🔧 Technologies and tools I'm familiar with
 
 •	Programming Languages: Python, Java, SQL, PL/SQL,R
+
 •	Libraries: Pandas, NumPy, TensorFlow, PyTorch, Sklearn, PyDantic
+
 •	Databases: Oracle, MySQL, MongoDB, MS SQL Server
+
 •	Cloud Technologies: GCP, Palantir, Oracle 
+
 •	Frameworks & Tools: Tableau, Apache Airflow, Power BI, Docker
 🚀 Projects
 
 📚 Education
 
 •	Northeastern University - Master of Science in Information Systems (Expected Graduation Date - May 2026)
+
 •	Manipal University Jaipur - Bachelors of Engineering in Automobile (2017-2021)
 
 📫 How to reach me: LinkedIn | Email 
