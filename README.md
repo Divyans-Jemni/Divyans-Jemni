@@ -21,7 +21,7 @@
 
 ---
 
-###About Me
+About Me
 
 I build end-to-end AI and data systems that turn raw information into reliable products, measurable outcomes, and faster decisions.
 
@@ -41,7 +41,7 @@ Production AI workflows  |  Analytics-ready data platforms  |  Decision-support 
 
 ---
 
-### Education
+Education
 
 <table>
 <tr>
@@ -64,7 +64,7 @@ B.E. in Automobile Engineering<br/>
 
 ---
 
-###Experience Highlights
+Experience Highlights
 
 <details open>
 <summary><b>AI & Data Systems Engineering</b></summary>
