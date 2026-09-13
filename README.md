@@ -21,19 +21,19 @@
 
 ---
 
-### 👨‍💻 About Me
+###About Me
 
 I build end-to-end AI and data systems that turn raw information into reliable products, measurable outcomes, and faster decisions.
 
 My work sits at the intersection of **AI engineering**, **data engineering**, **software engineering**, **data analysis**, and **business analysis**. I enjoy translating ambiguous business needs into robust technical systems and communicating outcomes clearly across technical and non-technical teams.
 
-**🎯 Current focus**
+**Current focus**
 
 ```text
 Production AI workflows  |  Analytics-ready data platforms  |  Decision-support systems
 ```
 
-**🚀 What I bring**
+**What I bring**
 
 - Business-first framing, followed by robust technical design and measurable delivery
 - Experience building reliable pipelines, model workflows, APIs, and stakeholder-facing analytics
@@ -41,20 +41,20 @@ Production AI workflows  |  Analytics-ready data platforms  |  Decision-support 
 
 ---
 
-### 🎓 Education
+### Education
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-**🏛️ Northeastern University**<br/>
+**Northeastern University**<br/>
 M.S. in Information Systems<br/>
 Expected: **Dec 2026**
 
 </td>
 <td width="50%" valign="top">
 
-**🏛️ Manipal University Jaipur**<br/>
+**Manipal University Jaipur**<br/>
 B.E. in Automobile Engineering<br/>
 **2017–2021**
 
@@ -64,10 +64,10 @@ B.E. in Automobile Engineering<br/>
 
 ---
 
-### 💼 Experience Highlights
+###Experience Highlights
 
 <details open>
-<summary><b>🤖 AI & Data Systems Engineering</b></summary>
+<summary><b>AI & Data Systems Engineering</b></summary>
 <br/>
 
 - Designed production-oriented AI workflows, data platforms, and decision-support systems
